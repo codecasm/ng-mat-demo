@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "ashish",
+        "designation": "developer",
+        "email": "ashish@demo.com",
+        "password": "Nga@123",
+        "department": "IT",
+        "active": "true"
+    },
+    {
+        "id": 2,
+        "name": "kumar",
+        "designation": "tester",
+        "email": "kumar@demo.com",
+        "password": "Ngk@123",
+        "department": "IT",
+        "active": "false"
+    },
+    {
+        "id": 3,
+        "name": "Rohini",
+        "designation": "Sales Executive",
+        "email": "rohini@demo.com",
+        "password": "Ngr@123",
+        "department": "Sales",
+        "active": "true"
+    }
+]
